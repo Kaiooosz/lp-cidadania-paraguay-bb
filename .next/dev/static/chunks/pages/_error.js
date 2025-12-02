@@ -1,0 +1,13 @@
+__turbopack_load_page_chunks__("/_error", [
+  "static/chunks/376dc_next_dist_compiled_b1d124e9._.js",
+  "static/chunks/376dc_next_dist_shared_lib_5c5695c2._.js",
+  "static/chunks/376dc_next_dist_client_66545970._.js",
+  "static/chunks/376dc_next_dist_39d5822c._.js",
+  "static/chunks/376dc_next_error_cf16796c.js",
+  "static/chunks/[next]_entry_page-loader_ts_828f4b03._.js",
+  "static/chunks/376dc_react-dom_bb432fed._.js",
+  "static/chunks/376dc_4284cbcb._.js",
+  "static/chunks/[root-of-the-server]__8a0b0019._.js",
+  "static/chunks/Downloads_cidadania-paraguaia-landing-page_pages__error_2da965e7._.js",
+  "static/chunks/turbopack-Downloads_cidadania-paraguaia-landing-page_pages__error_5caa2821._.js"
+])

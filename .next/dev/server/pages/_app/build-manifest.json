@@ -1,0 +1,23 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/_app": [
+      "static/chunks/376dc_next_dist_compiled_b1d124e9._.js",
+      "static/chunks/376dc_next_dist_shared_lib_a7a20a8e._.js",
+      "static/chunks/376dc_next_dist_client_66545970._.js",
+      "static/chunks/376dc_next_dist_636b4334._.js",
+      "static/chunks/376dc_next_app_73508e3a.js",
+      "static/chunks/[next]_entry_page-loader_ts_95df65b0._.js",
+      "static/chunks/376dc_react-dom_bb432fed._.js",
+      "static/chunks/376dc_4284cbcb._.js",
+      "static/chunks/[root-of-the-server]__ab66f6bf._.js",
+      "static/chunks/Downloads_cidadania-paraguaia-landing-page_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-Downloads_cidadania-paraguaia-landing-page_pages__app_2599f245._.js"
+    ]
+  },
+  "ampFirstPages": []
+}
